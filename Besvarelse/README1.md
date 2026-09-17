@@ -38,18 +38,21 @@ Blev nødtil at konfigurere netværksindstillinger, da ping test af den statiske
 
 3. Opret en non-root bruger og deaktivere root adgang via SSH:
 
-<img width="653" height="419" alt="Skærmbillede 2026-09-17 161712" src="https://github.com/user-attachments/assets/ed667a3d-4272-4a9e-8a34-c5cdfeb3baa8" />
 
-<img width="656" height="419" alt="Skærmbillede 2026-09-17 144557" src="https://github.com/user-attachments/assets/2b94fa45-36cd-46d7-99b6-9edaadb92239" />
-
-<img width="555" height="353" alt="Skærmbillede 2026-09-17 143046" src="https://github.com/user-attachments/assets/25c31bfc-e9b2-4db2-8030-6d2213543e02" />
-
-<img width="656" height="417" alt="Skærmbillede 2026-09-17 142523" src="https://github.com/user-attachments/assets/8cd99e02-fdab-43a2-9ed0-be91bf67b736" />
-
-<img width="658" height="416" alt="Skærmbillede 2026-09-17 142449" src="https://github.com/user-attachments/assets/f7a47021-932e-474d-b570-f6dd9587ee8f" />
 
 
 4. Opret SSH adgang via nøgle-baseret authentication:
+
+
+
+Oprettelse af SSH pub key på "lokal maskine" (Kali) til test af SSH public key authentication: 
+
+<img width="656" height="417" alt="Skærmbillede 2026-09-17 153455" src="https://github.com/user-attachments/assets/46bdd448-f3cd-4e84-894b-7849c1d9a566" />
+
+<img width="651" height="412" alt="Skærmbillede 2026-09-17 151424" src="https://github.com/user-attachments/assets/22cd55b0-2b41-4cb9-87cf-28700e8c8adf" />
+
+<img width="653" height="419" alt="Skærmbillede 2026-09-17 151404" src="https://github.com/user-attachments/assets/16315bd2-f301-48b6-aa26-afc8d3d30534" />
+
 
 
 5. Diverse bilag:
