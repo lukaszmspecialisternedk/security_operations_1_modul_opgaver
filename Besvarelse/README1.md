@@ -67,4 +67,5 @@ Trello tasks progression på modul 1:
 
 <img width="956" height="365" alt="Skærmbillede 2026-09-17 144301" src="https://github.com/user-attachments/assets/c28cba73-11ae-4081-b0c4-ecca6dbacc62" />
 
-<img width="959" height="379" alt="Skærmbillede 2026-09-17 142749" src="https://github.com/user-attachments/assets/d0715ded-7e83-4ff5-b8a2-136db218fb7c" />
+<img width="956" height="389" alt="Skærmbillede 2026-09-17 154041" src="https://github.com/user-attachments/assets/7a53ac69-ee78-4735-b6c2-e0a82bf43f60" />
+
