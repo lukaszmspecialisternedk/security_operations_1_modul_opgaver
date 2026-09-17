@@ -1,5 +1,5 @@
 1. Installere OS uden GUI:
-Jeg valgte Debian 13 eftersom jeg ikke har arbejdet med den OS før
+Jeg valgte at installere en Debian 13 VM, da det var ikke en OS jeg har arbejdet med den førhen og lærer noget nyt. Jeg forsøgte at installere dem uden GUI og kørte installation også via BIOS oprindeligt.
 
 <img width="659" height="425" alt="Skærmbillede 2026-09-14 161811" src="https://github.com/user-attachments/assets/d159aad7-5b35-4942-9356-7ac5eeca1443" />
 
@@ -112,8 +112,13 @@ Jeg valgte Debian 13 eftersom jeg ikke har arbejdet med den OS før
 <img width="563" height="345" alt="Skærmbillede 2026-09-17 134332" src="https://github.com/user-attachments/assets/2272ba8a-3d98-4585-a88c-49b40fcd3770" />
 
 5. Diverse bilag:
-Projektstyring:
+   
+Projektstyring
+
+Trello tasks progression på modul 1:
 
 <img width="956" height="389" alt="Skærmbillede 2026-09-17 154041" src="https://github.com/user-attachments/assets/ed99361d-93c3-43fb-b110-b727ba33d99f" />
+
 <img width="956" height="365" alt="Skærmbillede 2026-09-17 144301" src="https://github.com/user-attachments/assets/c28cba73-11ae-4081-b0c4-ecca6dbacc62" />
+
 <img width="959" height="379" alt="Skærmbillede 2026-09-17 142749" src="https://github.com/user-attachments/assets/d0715ded-7e83-4ff5-b8a2-136db218fb7c" />
