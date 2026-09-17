@@ -16,21 +16,22 @@ Jeg valgte at installere en Debian 13 VM, da det var ikke en OS jeg har arbejdet
 
 2. Statisk IP adresse og sigende hostname:
 
-<img width="425" height="283" alt="Skærmbillede 2026-09-17 142635" src="https://github.com/user-attachments/assets/d8d42b33-58e5-448f-a63b-b4b7b04a68b0" />
+Konfiguration af statisk IP addresse på Debian VM'en
+
+<img width="418" height="305" alt="Skærmbillede 2026-09-17 131017" src="https://github.com/user-attachments/assets/198ec86e-b9e8-48fd-ad8f-eb7244870978" />
+
+Ændring af hostname til et sigende navn på maskinen "newuser-my-pc":
 
 <img width="549" height="342" alt="Skærmbillede 2026-09-17 134150" src="https://github.com/user-attachments/assets/33302b95-d35f-4fd7-9e33-4c6c1a2342a7" />
 
-<img width="558" height="353" alt="Skærmbillede 2026-09-17 134101" src="https://github.com/user-attachments/assets/cc2309db-dce2-485e-bbb2-40967c7541cb" />
-
-<img width="542" height="344" alt="Skærmbillede 2026-09-17 133935" src="https://github.com/user-attachments/assets/a9ed26ab-d717-4900-be52-146602660bcd" />
-
+Blev nødtil at konfigurere netværksindstillinger, da ping test af den statiske IP og Google.com DNS test ikke virkede oprindeligt: 
 <img width="549" height="347" alt="Skærmbillede 2026-09-17 133841" src="https://github.com/user-attachments/assets/b40b2a95-06d3-4e6f-8d03-a5cc4afbf7a9" />
 
 <img width="953" height="409" alt="Skærmbillede 2026-09-17 133256" src="https://github.com/user-attachments/assets/bd6d6129-156a-41c5-b53b-1c04589e66df" />
 
 <img width="655" height="422" alt="Skærmbillede 2026-09-17 131905" src="https://github.com/user-attachments/assets/7d5351ad-e4e9-45c6-85fd-6a7c63986103" />
 
-<img width="418" height="305" alt="Skærmbillede 2026-09-17 131017" src="https://github.com/user-attachments/assets/88b02131-24fc-40bc-9415-da35a3e81c5d" />
+
 
 
 3. Opret en non-root bruger og deaktivere root adgang via SSH:
