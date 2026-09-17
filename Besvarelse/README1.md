@@ -26,14 +26,15 @@ Konfiguration af statisk IP addresse på Debian VM'en
 
 Blev nødtil at konfigurere netværksindstillinger, da ping test af den statiske IP og Google.com DNS test ikke virkede oprindeligt: 
 
-
-<img width="549" height="347" alt="Skærmbillede 2026-09-17 133841" src="https://github.com/user-attachments/assets/b40b2a95-06d3-4e6f-8d03-a5cc4afbf7a9" />
-
-<img width="953" height="409" alt="Skærmbillede 2026-09-17 133256" src="https://github.com/user-attachments/assets/bd6d6129-156a-41c5-b53b-1c04589e66df" />
-
 <img width="655" height="422" alt="Skærmbillede 2026-09-17 131905" src="https://github.com/user-attachments/assets/7d5351ad-e4e9-45c6-85fd-6a7c63986103" />
 
+<img width="953" height="409" alt="Skærmbillede 2026-09-17 133256" src="https://github.com/user-attachments/assets/fc01883c-6495-4b63-b442-0d356020eddd" />
 
+<img width="549" height="347" alt="Skærmbillede 2026-09-17 133841" src="https://github.com/user-attachments/assets/c67c8fff-7e39-431c-bb6c-50109f78b283" />
+
+Test fra selve laptop for at checke om der var netværkskommunikation:
+
+<img width="425" height="283" alt="Skærmbillede 2026-09-17 142635" src="https://github.com/user-attachments/assets/fde18dee-8241-4164-b12f-1120d42ca1aa" />
 
 
 3. Opret en non-root bruger og deaktivere root adgang via SSH:
@@ -43,15 +44,16 @@ Blev nødtil at konfigurere netværksindstillinger, da ping test af den statiske
 
 4. Opret SSH adgang via nøgle-baseret authentication:
 
-
-
-Oprettelse af SSH pub key på "lokal maskine" (Kali) til test af SSH public key authentication: 
+Oprettelse af SSH pub keys på "lokal maskine" (Kali) til test af SSH public key authentication: 
 
 <img width="656" height="417" alt="Skærmbillede 2026-09-17 153455" src="https://github.com/user-attachments/assets/46bdd448-f3cd-4e84-894b-7849c1d9a566" />
 
 <img width="651" height="412" alt="Skærmbillede 2026-09-17 151424" src="https://github.com/user-attachments/assets/22cd55b0-2b41-4cb9-87cf-28700e8c8adf" />
 
 <img width="653" height="419" alt="Skærmbillede 2026-09-17 151404" src="https://github.com/user-attachments/assets/16315bd2-f301-48b6-aa26-afc8d3d30534" />
+
+Anvendte "ssh-copy-id" til at overfører en ed22519 pubkey til Debian serveren, som følgende trin til at etablere public key authentication på tværs af de to VMs:
+
 
 
 
