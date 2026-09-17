@@ -25,6 +25,8 @@ Konfiguration af statisk IP addresse på Debian VM'en
 <img width="549" height="342" alt="Skærmbillede 2026-09-17 134150" src="https://github.com/user-attachments/assets/33302b95-d35f-4fd7-9e33-4c6c1a2342a7" />
 
 Blev nødtil at konfigurere netværksindstillinger, da ping test af den statiske IP og Google.com DNS test ikke virkede oprindeligt: 
+
+
 <img width="549" height="347" alt="Skærmbillede 2026-09-17 133841" src="https://github.com/user-attachments/assets/b40b2a95-06d3-4e6f-8d03-a5cc4afbf7a9" />
 
 <img width="953" height="409" alt="Skærmbillede 2026-09-17 133256" src="https://github.com/user-attachments/assets/bd6d6129-156a-41c5-b53b-1c04589e66df" />
