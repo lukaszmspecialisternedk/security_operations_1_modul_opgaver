@@ -1,1 +1,1 @@
-Security Operations modul 1 READMEs
+Security Operations 1 opgave READMEs
