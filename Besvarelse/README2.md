@@ -54,3 +54,13 @@ Grunden til at "change mode (chmod) 777" bør undgåes er fordi denne indstillin
 
 
 ## 4. Anvend Access Control List (ACL) til at give midlertidig, afgrænset adgang til en mappe uden at ændre dens grundlæggende gruppestruktur:
+
+
+
+## 5. bilag
+
+Projektstyring:
+
+
+
+<img width="1917" height="940" alt="Skærmbillede 2026-09-18 133635" src="https://github.com/user-attachments/assets/e4d00c9c-8dbc-4b26-8b12-0c1b14494fb9" />
