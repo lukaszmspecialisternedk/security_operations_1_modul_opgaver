@@ -8,23 +8,23 @@
 
 - /var/log : Mappen Indholder diverse system specifikke log filer.
 
-- /home : (Home directory)
+- /home : Den enktelte brugers hovedemappe og forgreninger. (Home directory)
 
-- /usr : (Unix System Resources)
+- /usr : Sekundært filhierarki for brugeren. Udelukkende "read-only data. (Unix System Resources)
 
-- /tmp : (Temporary files)
+- /tmp : Mappen for midlertidige filer. (Temporary files)
 
-- /bin :
+- /bin : Mappen som bevar diverse essentielle bruger kommandoer. (Essenital User Command Binaries)
 
-- /sbin :
+- /sbin : "/sbin" er en user relateret mappe, der er rettet mod superbruger/root bruger privilegier. (Superuser binaries)
 
-- /boot :
+- /boot : "/boot" indeholder filer der forbundet til bootloaderen og Linux kernen (kernel). (Static files for the bootloader)
 
-- /lib :
+- /lib : (Shared libraries)
   
-- /proc :
+- /proc : "filsystem" mappe. der levere proces og kerne information i filer. (Process information)
   
-- 
+- /root : Ligesome hovedemappen for en enkelt bruger, men blot for "root" istedet.
 
 
 
