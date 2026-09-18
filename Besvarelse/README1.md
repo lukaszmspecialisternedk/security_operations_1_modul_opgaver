@@ -71,8 +71,6 @@ Diverse konfigurationer af "sshd_config" filen til hærde adgangen til serveren:
 
 <img width="652" height="418" alt="Skærmbillede 2026-09-17 150246" src="https://github.com/user-attachments/assets/335866e8-2ebe-42a1-9e20-cd05ded39e49" />
 
-<img width="652" height="421" alt="Skærmbillede 2026-09-17 150159" src="https://github.com/user-attachments/assets/ed2cbde3-d788-4ddf-808d-572c4dd0b984" />
-
 Anvendte "ssh-copy-id" til at overfører en ed22519 pubkey til Debian serveren's "auth_keys" mappe og etablere SSH key authentication på tværs af de to forskellige maskiner/enheder (VMs). I denne sammenhæng valgte jeg at anvende Debian og Kali til opgavens formål:
 
 <img width="407" height="326" alt="Skærmbillede 2026-09-17 152645" src="https://github.com/user-attachments/assets/a64ca724-d0d8-4656-b309-b83194704f70" />
@@ -123,4 +121,7 @@ Trello tasks progression på modul 1:
 <img width="956" height="365" alt="Skærmbillede 2026-09-17 144301" src="https://github.com/user-attachments/assets/c28cba73-11ae-4081-b0c4-ecca6dbacc62" />
 
 <img width="956" height="389" alt="Skærmbillede 2026-09-17 154041" src="https://github.com/user-attachments/assets/7a53ac69-ee78-4735-b6c2-e0a82bf43f60" />
+
+<img width="1908" height="933" alt="Skærmbillede 2026-09-18 103517" src="https://github.com/user-attachments/assets/3dfc25a9-6d81-4989-bcf9-a97b4a951644" />
+
 
