@@ -89,6 +89,14 @@ Oprettelse af SSH pub keys på "lokal maskine" (Kali) til test af SSH public key
 
 <img width="653" height="419" alt="Skærmbillede 2026-09-17 151404" src="https://github.com/user-attachments/assets/16315bd2-f301-48b6-aa26-afc8d3d30534" />
 
+Test af SSH key login, med forbud mod direkte password login, på tværs af enheder:
+
+Kali:
+<img width="466" height="254" alt="Skærmbillede 2026-09-17 154744" src="https://github.com/user-attachments/assets/9ee14a35-898f-4830-8ebb-86f4a146a401" />
+
+Windows:
+<img width="543" height="370" alt="Skærmbillede 2026-09-17 155613" src="https://github.com/user-attachments/assets/31c95fa6-b3d2-4b96-8606-85b6e02b19d7" />
+
 Diverse indstillinger i sshd_config filen i sammenhæng med løsningen:
 
 <img width="653" height="410" alt="Skærmbillede 2026-09-17 155209" src="https://github.com/user-attachments/assets/9df30a38-8404-4aaa-8b9c-795da1cd3f49" />
