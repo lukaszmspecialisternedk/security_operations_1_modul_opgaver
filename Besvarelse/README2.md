@@ -31,6 +31,14 @@
 
 ## 2. Oprettelse af en mappe med bestemte gruppe permissions (uden brug af "chmod 777"):
 
+Til start, oprettes en test mappe for denne opgave:
+
+<img width="1314" height="837" alt="Skærmbillede 2026-09-18 124247" src="https://github.com/user-attachments/assets/7d7b94e6-e3f8-47d4-813c-d325a137658b" />
+
+
+
+
+
 
 
 
