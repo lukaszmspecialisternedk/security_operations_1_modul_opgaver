@@ -1,17 +1,25 @@
-1. Redegør for diverse Linux File hierarki System (FHS)  mapper:
+1. Redegør for diverse Linux File hierarki Standard (FHS) mapper:
 
-/etc :
+- /etc :
 
-/var :
+- /var :
 
-/home :
+- /home :
 
-/tmp :
+- /tmp :
 
-/var/log :
+- /bin :
+
+- /sbin :
+
+- /boot :
+
+- /lib :
+
+- /var/log :
 
 
-2. Oprettelse af en mappe med bestemte grupperettigheder (uden brug af "chmod 777"):
+2. Oprettelse af en mappe med bestemte gruppe permissions (uden brug af "chmod 777"):
 
 
 
