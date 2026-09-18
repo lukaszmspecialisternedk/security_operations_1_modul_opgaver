@@ -35,7 +35,7 @@ Til start, oprettes en test mappe for denne opgave:
 
 <img width="1314" height="837" alt="Skærmbillede 2026-09-18 124247" src="https://github.com/user-attachments/assets/7d7b94e6-e3f8-47d4-813c-d325a137658b" />
 
-Jeg ændre for gruppe permissions til kun at være read-only for alle andre brugere end mappens owner (newuser):
+Herunder, som eksempel, ændrer jeg gruppe permissions til kun at være kun "read-only" (o=r ; "others"="read") for alle andre brugere end mappens owner (newuser):
 
 <img width="1309" height="829" alt="Skærmbillede 2026-09-18 125626" src="https://github.com/user-attachments/assets/5e341251-6d26-43f3-8940-6fe95e2c7fdb" />
 
