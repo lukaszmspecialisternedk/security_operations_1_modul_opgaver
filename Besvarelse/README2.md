@@ -1,14 +1,18 @@
 # Modul 2
 
-## 1. Redegør for diverse Linux File hierarki Standard (FHS) mapper:
+## 1. Redegør for diverse Linux Filesystem Hierarchy Standard (FHS) mapper:
 
-- /etc : Denne mappe er her, hvor de fleste konfigurationsfiler befinder sig i et Linux distro system.
+- /etc : Denne mappe er her, hvor de fleste konfigurationsfiler befinder sig i et Linux distro system. (Host specific system configuration)
 
-- /var : "/var" mappen 
+- /var : "/var" (variable) mappen indeholder database og spool filer.
 
-- /home :
+- /var/log : Mappen Indholder diverse system specifikke log filer.
 
-- /tmp :
+- /home : (Home directory)
+
+- /usr : (Unix System Resources)
+
+- /tmp : (Temporary files)
 
 - /bin :
 
@@ -17,8 +21,12 @@
 - /boot :
 
 - /lib :
+  
+- /proc :
+  
+- 
 
-- /var/log :
+
 
 
 ## 2. Oprettelse af en mappe med bestemte gruppe permissions (uden brug af "chmod 777"):
