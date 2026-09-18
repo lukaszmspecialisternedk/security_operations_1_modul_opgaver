@@ -45,7 +45,7 @@ Jeg skifter til "newuser2" og prøver at læse mappen - men gruppens permissions
 
 <img width="1315" height="823" alt="Skærmbillede 2026-09-18 130020" src="https://github.com/user-attachments/assets/354043c8-1fe0-4bbf-b1f5-bec233277d37" />
 
-Grunden til at "change mode (chmod) 777" bør undgåes er fordi denne indstilling giver gruppen til at give alle vilkårlige brugere samtligt permissions og adgang til mappen (rwxrwxrwx : read(r), write(w), execute(x)). Fra et sikkerhedsperspektiv, er det en sløset måde at håndtere rettigheder til brugere på. Det indebærer desuden en risiko for at en udefrakommende angriber/indtrænger kan eller kunne udefører farlige handlinger eller skaffe sig adgang til filer eller mapper de ikke bør have adgang til. 
+Grunden til at "change mode (chmod) 777" bør undgåes er fordi denne indstilling giver alle gruppe permissions til alle vilkårlige brugere (rwxrwxrwx : read(r), write(w), execute(x)). Fra et sikkerhedsperspektiv, er det en sløset måde at håndtere rettigheder til brugere på. Det indebærer desuden en risiko for at en udefrakommende angriber/indtrænger kan eller kunne udefører farlige handlinger eller skaffe sig adgang til filer eller mapper de ikke bør have adgang til. 
 
 
 ## 3. Identificere forkert konfigureret rettigheder i et udleveret testmiljø:
