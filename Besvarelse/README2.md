@@ -1,8 +1,10 @@
-1. Redegør for diverse Linux File hierarki Standard (FHS) mapper:
+# Modul 2
 
-- /etc :
+## 1. Redegør for diverse Linux File hierarki Standard (FHS) mapper:
 
-- /var :
+- /etc : Denne mappe er her, hvor de fleste konfigurationsfiler befinder sig i et Linux distro system.
+
+- /var : "/var" mappen 
 
 - /home :
 
@@ -19,14 +21,14 @@
 - /var/log :
 
 
-2. Oprettelse af en mappe med bestemte gruppe permissions (uden brug af "chmod 777"):
+## 2. Oprettelse af en mappe med bestemte gruppe permissions (uden brug af "chmod 777"):
 
 
 
 
-3. Identificere forkert konfigureret rettigheder i et udleveret testmiljø:
+## 3. Identificere forkert konfigureret rettigheder i et udleveret testmiljø:
 
 
 
 
-4. Anvend Access Control List (ACL) til at give midlertidig, afgrænset adgang til en mappe uden at ændre dens grundlæggende gruppestruktur:
+## 4. Anvend Access Control List (ACL) til at give midlertidig, afgrænset adgang til en mappe uden at ændre dens grundlæggende gruppestruktur:
