@@ -1,4 +1,8 @@
-1. Installere OS uden GUI:
+# Modul 1
+
+
+## 1. Installere OS uden GUI:
+
 Jeg valgte at installere en Debian 13 VM, da det var ikke en OS jeg har arbejdet med den førhen og lærer noget nyt. Jeg forsøgte at installere dem uden GUI og kørte installation også via BIOS oprindeligt.
 
 <img width="659" height="425" alt="Skærmbillede 2026-09-14 161811" src="https://github.com/user-attachments/assets/d159aad7-5b35-4942-9356-7ac5eeca1443" />
@@ -11,8 +15,9 @@ Jeg valgte at installere en Debian 13 VM, da det var ikke en OS jeg har arbejdet
 
 <img width="689" height="432" alt="Skærmbillede 2026-09-16 093846" src="https://github.com/user-attachments/assets/2dc0d144-036a-43b8-89e5-0d00e0b26046" />
 
+-----
 
-2. Statisk IP adresse og sigende hostname:
+## 2. Statisk IP adresse og sigende hostname:
 
 Konfiguration af statisk IP addresse på Debian VM'en
 
@@ -34,8 +39,9 @@ Test fra selve laptop for at checke om der var netværkskommunikation:
 
 <img width="425" height="283" alt="Skærmbillede 2026-09-17 142635" src="https://github.com/user-attachments/assets/fde18dee-8241-4164-b12f-1120d42ca1aa" />
 
+-----
 
-3. Opret en non-root bruger og deaktivere root adgang via SSH:
+## 3. Opret en non-root bruger og deaktivere root adgang via SSH:
 
 Anvendte terminal vindue med kommandoen "adduser" for at oprette en ny bruger:
 
@@ -51,8 +57,9 @@ Deaktivering af "root" adgang via SSH i "sshd_config" filen:
 
 <img width="546" height="344" alt="Skærmbillede 2026-09-17 143108" src="https://github.com/user-attachments/assets/42ee937a-e6e7-4d8f-bd47-7395445fe9dd" />
 
+-----
 
-4. Opret SSH adgang via nøgle-baseret authentication:
+## 4. Opret SSH adgang via nøgle-baseret authentication:
 
 Installation af "openssh-server" pakken på Debian:
 
@@ -103,7 +110,9 @@ Diverse indstillinger i sshd_config filen i sammenhæng med løsningen:
 
 <img width="653" height="410" alt="Skærmbillede 2026-09-17 155209" src="https://github.com/user-attachments/assets/9df30a38-8404-4aaa-8b9c-795da1cd3f49" />
 
-5. Diverse bilag:
+-----
+
+## 5. Diverse bilag:
    
 Projektstyring
 
