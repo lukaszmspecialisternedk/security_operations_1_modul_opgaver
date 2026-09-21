@@ -12,7 +12,6 @@
 ## 4. Tabel over rollestruktur
 
 
-| Bruger | Grupper | Rettigheder | begrundelse |
-------------------------------------------------
+| Bruger | Grupper | Rettigheder | Begrundelse |
+|--------|---------|-------------|-------------|
 |        |         |             |             |
-------------------------------------------------
