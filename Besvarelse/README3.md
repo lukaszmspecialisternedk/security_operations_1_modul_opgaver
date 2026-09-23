@@ -16,6 +16,11 @@ Derefter en tilføjelse af brugerne til tilsvarende grupper:
 
 <img width="1291" height="811" alt="Skærmbillede 2026-09-21 150440" src="https://github.com/user-attachments/assets/dc9a8508-4c20-4764-8161-518d63c8ded5" />
 
+Justere "adminuser" til at få øvrig adgang på tværs af alle mapper - som en slags "over-bruger" til at håndtere de andre gruppemappers' indhold og monitorering:
+
+<img width="1294" height="813" alt="Skærmbillede 2026-09-23 121001" src="https://github.com/user-attachments/assets/fd3876bf-8656-45c2-87c8-5fcf9265ef85" />
+
+
 Justering af eger rettighederne/permissions til de respektive folders:
 
 <img width="649" height="409" alt="Skærmbillede 2026-09-23 105806" src="https://github.com/user-attachments/assets/3a3d6aa1-8b2f-406f-b143-5c8db2c0b8fc" />
@@ -53,12 +58,10 @@ Et overblik over, hvordan de respektive grupper, gruppernes rettigheder og mappe
 
 | Bruger | Grupper | Rettigheder | Begrundelse |
 |--------|---------|-------------|-------------|
-| adminuser|  admin|             |             |
-|--------|---------|-------------|-------------|
-|developeruser1| developers|    |            |
-|--------|---------|-------------|-------------|
+|adminuser|  admin, developers, guests|  |    |
+|developeruser1|developers|     |              |
+|developeruser2|developers|     |              |
 |guestuser| guests |             |             |
-|--------|---------|-------------|-------------|
 
 ## 5. Bilag
 
