@@ -1,6 +1,6 @@
 # Modul 3
 
-## 1. Opret tre brugerroller (admin, developer og guest):
+## 1. Opret tre brugerroller (admin, developer og guest) - med forskellige rettigheder:
 
 Oprettelse af forskellige grupper først:
 
