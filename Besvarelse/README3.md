@@ -58,10 +58,10 @@ Et overblik over, hvordan de respektive grupper, gruppernes rettigheder og mappe
 
 | Bruger | Grupper | Rettigheder | Begrundelse |
 |--------|---------|-------------|-------------|
-|adminuser|  admin, developers, guests|  read, write, execute|    |
-|developeruser1|developers| read, write, execute |              |
-|developeruser2|developers|     |              |
-|guestuser| guests | read-only            |             |
+|adminuser|  admin, developers, guests|  read, write, execute| Vedkommende har adgang og privilegier på tværs af alle grupper, så de kan monitorere brugerne, deres adgang og mappernes indhold |
+|developeruser1|developers| read, write, execute | Udviklerne er udelukkende afgrænset til deres eget arbejdsområde med minimum privilege princippet i mente|
+|developeruser2|developers| read, write, execute |  (samme argument som ovenstående)            |
+|guestuser| developers, guests | read-only            | Besøgende roller ("guests"), bør ikke have næsten ingen betydelige privilegier, udover at læse filer i deres egen mappe og eventuelt tage et kig i "developers" mappen, hvis der f.eks. er tale om en ekstern konsulent eller klient |
 
 ## 5. Bilag
 
