@@ -47,10 +47,7 @@ Et overblik over, hvordan de respektive grupper, gruppernes rettigheder og mappe
 
 ## 3. Konfigurere sudo-rettigheder granulært, så admin gruppen kan kun udfører specifikke kommandoer i forhold til root:
 
-
-
-
-
+<img width="1297" height="816" alt="Skærmbillede 2026-09-23 143250" src="https://github.com/user-attachments/assets/c7342d46-9839-4909-8afe-7c3d0cd38d6a" />
 
 
 ## 4. Tabel over rollestruktur
