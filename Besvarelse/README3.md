@@ -40,3 +40,13 @@ Derefter en tilføjelse af brugerne til tilsvarende grupper:
 | Bruger | Grupper | Rettigheder | Begrundelse |
 |--------|---------|-------------|-------------|
 |        |         |             |             |
+
+
+## 5. Bilag
+
+
+Projektstyring:
+
+
+<img width="1905" height="1020" alt="Skærmbillede 2026-09-21 141910" src="https://github.com/user-attachments/assets/5854fe30-beed-4304-a414-d06d73ea926f" />
+
