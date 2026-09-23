@@ -58,10 +58,10 @@ Et overblik over, hvordan de respektive grupper, gruppernes rettigheder og mappe
 
 | Bruger | Grupper | Rettigheder | Begrundelse |
 |--------|---------|-------------|-------------|
-|adminuser|  admin, developers, guests|  |    |
-|developeruser1|developers|     |              |
+|adminuser|  admin, developers, guests|  read, write, execute|    |
+|developeruser1|developers| read, write, execute |              |
 |developeruser2|developers|     |              |
-|guestuser| guests |             |             |
+|guestuser| guests | read-only            |             |
 
 ## 5. Bilag
 
