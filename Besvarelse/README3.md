@@ -17,9 +17,11 @@ Derefter en tilføjelse af brugerne til tilsvarende grupper:
 <img width="1291" height="811" alt="Skærmbillede 2026-09-21 150440" src="https://github.com/user-attachments/assets/dc9a8508-4c20-4764-8161-518d63c8ded5" />
 
 Justering af eger rettighederne/permissions til de respektive folders:
+
 <img width="649" height="409" alt="Skærmbillede 2026-09-23 105806" src="https://github.com/user-attachments/assets/3a3d6aa1-8b2f-406f-b143-5c8db2c0b8fc" />
 
 Og de tilhørende bruger permissions til diverse "arbejdsmapper":
+
 <img width="1296" height="813" alt="Skærmbillede 2026-09-23 110040" src="https://github.com/user-attachments/assets/84c147df-329e-4cbe-a37f-1a77dc709e1b" />
 
 Et test af, hvordan et scenarie med en aktivt logget ind "guest" bruger rolle ville se ud, når de forsøgte at navigere rundt mappe hierarkiet med den indstillede rolle rettigheder:
