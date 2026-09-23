@@ -9,6 +9,7 @@ Oprettelse af forskellige grupper først:
 <img width="1297" height="816" alt="Skærmbillede 2026-09-21 145414" src="https://github.com/user-attachments/assets/b7a30bb7-8274-4faa-bcc9-47e490cb57c0" />
 
 Oprettelse af respektive brugere i sammenhæng med opgaven:
+
 <img width="1293" height="811" alt="Skærmbillede 2026-09-21 145029" src="https://github.com/user-attachments/assets/62dc7fda-eda7-4f4f-a7c6-e911959bf533" />
 
 Derefter en tilføjelse af brugerne til tilsvarende grupper:
