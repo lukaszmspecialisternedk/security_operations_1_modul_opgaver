@@ -1,5 +1,6 @@
 # modul 5
 
+-- opgaven blev hindret på grund af tekniske problemer med net kommunikation på tværs af VMs og det virtualiserede miljØ --
 
 ## 1. Opsæt kontrolleret logrotation:
 
